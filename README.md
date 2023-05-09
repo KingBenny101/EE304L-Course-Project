@@ -16,3 +16,21 @@
     EE20B007 Benstin Davis D 
     EE20B049 Venkatesa J
     EE20B051 Vignesh S
+
+### **Plots**
+
+- #### **Carrier**
+
+    ![Carrier](./images/carrier.png)
+
+- #### **Constellation Diagram**
+
+    ![Constellation](./images/constellation.png)
+
+- #### **Transmitted Signal**
+
+    ![Transmitted Signal](./images/txsignal.png)
+
+- #### **Received symbols with noise**
+
+    ![Received Signal](./images/msgnoise.png)
